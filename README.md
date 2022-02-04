@@ -1,5 +1,5 @@
 # Document Summarization
-This repo contains a Jupyter notebook, which allows you to summarize documents using both extractive and abstractive summarization approaches. The repo is available on Binder.
+This repo contains a Jupyter notebook, which allows you to summarize documents using both extractive and abstractive summarization approaches.
 
 Note that we use the Adobe Document Services API for processing PDF files. Using this API reuqires credentials, which we do not provide. Please contact us, if you need assistance in getting and setting up credentials. We aim to replace Adobe's API with an open source alternative in future updates.   
 
